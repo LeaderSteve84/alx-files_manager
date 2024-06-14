@@ -1,13 +1,5 @@
-0x04. Files manager
-Back-end
-JavaScript
-ES6
-NoSQL
-MongoDB
-Redis
-NodeJS
-ExpressJS
-Kue
+# 0x04. Files manager
+### Back-end JavaScript ES6 NoSQL MongoDB Redis NodeJS ExpressJS Kue
  Weight: 1
  Project to be done in teams of 2 people (your team: ABDULHAKEEM ABDULLAHI, Stephen Adah)
  Project will start Jun 13, 2024 6:00 AM, must end by Jun 20, 2024 6:00 AM
@@ -44,6 +36,7 @@ Enjoy!
 <li><a href="https://www.npmjs.com/package/mime-types">Mime-Types</a></li>
 <li><a href="https://github.com/redis/node-redis">Redis</a></li>
 </ul>
+
 ### Learning Objectives
 
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
@@ -54,23 +47,25 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 <li>how to store temporary data in Redis</li>
 <li>how to setup and use a background worker</li>
 </ul>
-### Requirements
 
-Allowed editors: vi, vim, emacs, Visual Studio Code
-All your files will be interpreted/compiled on Ubuntu 18.04 LTS using node (version 12.x.x)
-All your files should end with a new line
-A README.md file, at the root of the folder of the project, is mandatory
-Your code should use the js extension
-Your code will be verified against lint using ESLint
-Provided files
-package.json
+### Requirements
+<ul>
+<li>Allowed editors: vi, vim, emacs, Visual Studio Code</li>
+<li>All your files will be interpreted/compiled on Ubuntu 18.04 LTS using node (version 12.x.x)</li>
+<li>All your files should end with a new line</li>
+<li>A README.md file, at the root of the folder of the project, is mandatory</li>
+<li>Your code should use the js extension</li>
+<li>Your code will be verified against lint using ESLint</li>
+<li>Provided files</li>
+<li>package.json</li>
 Click to show/hide file contents
-.eslintrc.js
+<li>.eslintrc.js</li>
 Click to show/hide file contents
-babel.config.js
+<li>babel.config.js</li>
 Click to show/hide file contents
 and…
 Don’t forget to run $ npm install when you have the package.json
+</ul>
 
 ## Tasks
 
